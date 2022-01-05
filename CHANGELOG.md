@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "hydralite-skyline" extension will be documented in this file.
+## [0.0.1]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Initial release of the Skyline Theme from [Hydralite](https://hydralite.io)

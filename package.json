@@ -3,6 +3,8 @@
     "displayName": "Skyline - Hydralite",
     "description": "🌆 A theme inspired by the skyline of Tokyo",
     "version": "0.0.1",
+    "readme": "README.md",
+    "homepage": "hydralite.io/skyline",
     "author": {
         "name": "XtremeDevX",
         "email": "xtremedevx@gmail.com",
