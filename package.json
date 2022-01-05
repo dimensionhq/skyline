@@ -1,11 +1,17 @@
 {
-    "name": "@hydralite/skyline",
+    "name": "hydralite-skyline",
     "displayName": "Skyline",
     "description": "🌆 A theme inspired by the skyline of Tokyo",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "readme": "README.md",
     "publisher": "hydralite",
-    "homepage": "https://hydralite.io/skyline",
+    "license": "MIT",
+    "icon": "assets/skyline.png",
+    "homepage": "https://hydralite.io",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hydralite/skyline.git"
+    },
     "author": {
         "name": "XtremeDevX",
         "email": "xtremedevx@gmail.com",
