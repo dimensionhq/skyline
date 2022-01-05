@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="assets/skyline.png" width=200 height=200>
+<img align="center" src="https://github.com/hydralite/skyline/blob/master/assets/skyline.png?raw=true" width=200 height=200>
 </p>
 
 <h1 align="center">
@@ -12,12 +12,12 @@ Skyline
 </p>
 
 <p align="center">
-  <img alt="preview" src="assets/vscode.png" >
+  <img alt="preview" src="https://github.com/hydralite/skyline/blob/master/assets/vscode.png?raw=true" >
 </p>
 
 ## 📦 Installation
 
-Visual Studio Code : [Extension Store]()
+Visual Studio Code : [Extension Store](https://marketplace.visualstudio.com/items?itemName=hydralite.hydralite-skyline)
 
 > Jetbrains: Coming Soon
 
