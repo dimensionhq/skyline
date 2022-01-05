@@ -1,0 +1,26 @@
+{
+    "name": "@hydralite/skyline",
+    "displayName": "Skyline - Hydralite",
+    "description": "🌆 A theme inspired by the skyline of Tokyo",
+    "version": "0.0.1",
+    "author": {
+        "name": "XtremeDevX",
+        "email": "xtremedevx@gmail.com",
+        "url": "https://xtremedevx.com"
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Skyline",
+                "uiTheme": "vs-dark",
+                "path": "./themes/skyline.json"
+            }
+        ]
+    }
+}
