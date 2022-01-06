@@ -22,3 +22,7 @@ Visual Studio Code : [Extension Store](https://marketplace.visualstudio.com/item
 > Jetbrains: Coming Soon
 
 > Sublime Text: Coming Soon
+
+## Credits
+
+This color palette was brainstormed during the development process of the [Skyline](https://github.com/skyline-editor/skyline). Do check it out!
